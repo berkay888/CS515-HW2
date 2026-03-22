@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data & checkpoints
+data/
+checkpoints/
+*.pth
+
+# Results (keep figures dir but ignore generated files)
+results/figures/*.png
+results/figures/*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Env
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
