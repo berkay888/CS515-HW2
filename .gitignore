@@ -18,7 +18,6 @@ results/figures/*.pdf
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # Env
 .env
